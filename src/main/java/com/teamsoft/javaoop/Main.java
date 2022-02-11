@@ -10,5 +10,6 @@ public class Main {
         BubbleSort<String> sortObj = new BubbleSort<>();
 
         System.out.println("[result] " + sortObj.sort(Arrays.asList(args)));
+        System.out.println("update!!!");
     }
 }
